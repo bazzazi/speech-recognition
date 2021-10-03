@@ -42,4 +42,5 @@ with sr.Microphone() as source:
     except:
         print("ops! something went wrong!")
     print("########################")
+    
 ########################### END ###########################
