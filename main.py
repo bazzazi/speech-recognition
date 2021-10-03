@@ -21,7 +21,7 @@
 from os import system
 
 # installing requirements
-# note: connect to internet
+# Note: connect to internet
 system("pip install speechrecognition")
 system("pip install pipwin")
 system("pipwin install pyaudio")
